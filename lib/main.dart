@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import "";
+// TODO: Figure this out
+// second_screen should come from the second_screen folder
+import "package:second_screen/main.dart";
 
 void main() {
   runApp(const MyApp());
